@@ -6,6 +6,7 @@
   * стек: sql (postgre-диалект)
     
 * Jupyter Notebook: в блокноте содержится код предоработки датасетов для загрузки в таблицы БД
+  * [перейти к блокноту](https://colab.research.google.com/drive/1dPJOakxCNY9aOka9qTcdJ60Kfusczy9u?usp=sharing)
   * стек: pandas
 * Screenshots:
   * диаграмма БД
