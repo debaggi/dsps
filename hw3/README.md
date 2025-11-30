@@ -12,13 +12,13 @@
 8. Найти топ-5 клиентов (по общему доходу) в каждом сегменте благосостояния (wealth_segment). Вывести имя, фамилию, сегмент и общий доход. Если в сегменте менее 5 клиентов, вывести всех.
 
 ### Артефакты
-+ sql-скрипты
++ [sql-скрипты](https://github.com/debaggi/dsps/blob/main/hw3/queries.sql) 
 
 ### Стек
 + PostgreSQL 16 [в облаке REG.ru]
 + DBeaver
-+ Juputer Notebook
++ Jupyter Notebook
 
 ### Языки: библиотеки
-+ Python: Pandas, NumPy
++ Python: Pandas, NumPy, psycopg2
 + SQL: диалект PostgreSQL
